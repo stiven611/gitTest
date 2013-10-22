@@ -52,7 +52,7 @@
 		All Rights Reserved.<br/>
 		<?php echo Yii::powered(); ?>
 	</div><!-- footer -->
-
+<!-- Jaaaaaa -->
 </div><!-- page -->
 
 </body>
